@@ -1,10 +1,18 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.Paper {
+  padding: 2px;
+  text-align: center;
+  color: rgb(128, 128, 128);
+}
+
+.Card:hover {
+box-shadow: rgb(45, 156, 151);
 }
 
 @media (prefers-reduced-motion: no-preference) {
